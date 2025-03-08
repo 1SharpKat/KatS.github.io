@@ -38,10 +38,12 @@ align-items: center;
 }
 
 h2{
-     color: #104141;
-     font-weight: 300;
+     color: #393063;
+     font-weight: 400;
      font-style: oblique;
+     font-style:bold
      justify-content: justify;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3{
@@ -89,3 +91,15 @@ text-align: left;}
 
 footer{color: #104141;
     background-color: white;}
+
+    /* experience css */
+    .experience-title{
+        text-align: center;
+        color: #393063
+        text-color: #393063;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 300;
+     font-style: oblique;
+     justify-content: justify
+
+    }
